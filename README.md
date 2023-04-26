@@ -61,5 +61,5 @@ Start the server
 
 ## Demo
 
-[Article Summarizer](https://master--vermillion-crostata-18c05e.netlify.app/)
+[Article Summarizer](https://master--articlessummarizer.netlify.app/)
 

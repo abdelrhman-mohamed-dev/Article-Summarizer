@@ -27,7 +27,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/abdelrhman-mohamed-dev/To-Do-List
+  git clone https://github.com/abdelrhman-mohamed-dev/Article-Summarizer
 ```
 
 Go to the project directory
